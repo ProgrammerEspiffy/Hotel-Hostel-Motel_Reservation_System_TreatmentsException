@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de6eaf25-7ae3-498f-99b0-852b65adc34d" name="Changes" comment="Really Bad Solution Update">
+    <list default="true" id="de6eaf25-7ae3-498f-99b0-852b65adc34d" name="Changes" comment="Bad Solution Update">
+      <change afterPath="$PROJECT_DIR$/src/model/exceptions/DomainException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Reservation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Program.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.Program" />
@@ -106,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720805449923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bad Solution Update">
+      <option name="closed" value="true" />
+      <created>1720807021257</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720807021257</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Basic Creation of Classes" />
     <MESSAGE value="Really Bad Solution Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Really Bad Solution Update" />
+    <MESSAGE value="Bad Solution Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bad Solution Update" />
   </component>
 </project>
